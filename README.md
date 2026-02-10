@@ -39,4 +39,4 @@ Je cherche à développer des projets concrets en data et IT pour entrer sur le 
 
 - 🌍 Basé à Ottawa (ON), ouvert au télétravail et aux opportunités au Canada  
 - 🎓 Intéressé par : data engineering, analytics, BI, cloud  
-- 🎯 Objectif actuel : décrocher un stage/emploi en data analyst / data scientist junior
+- 🎯 Objectif actuel : décrocher un stage/emploi en data analyst / data scientist junior / technicien IT / support IT
