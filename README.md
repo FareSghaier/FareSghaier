@@ -22,7 +22,7 @@ Je cherche à développer des projets concrets en data et IT pour entrer sur le 
 
 - Langages : Python, SQL, Java, HTML/CSS  
 - Data : pandas, NumPy, matplotlib, seaborn, Spark/Hadoop (bases)  
-- Visualisation : Tableau, (ajoute Power BI si tu l’utilises)  
+- Visualisation : Tableau, Power BI
 - Outils : Git/GitHub, Jupyter Notebook, VS Code 
 
 ## 🚀 Projets à découvrir
