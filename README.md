@@ -2,7 +2,7 @@
 
 **Aspiring Data & Cloud Engineer** — Applied Data Science student at La Cité College, Ottawa, Canada.
 I build end-to-end data pipelines, automated ingestion systems, and machine learning workflows on real-world datasets.
-Fluent in **French** and **English**. Relocating to **Belgium** in 2026.
+Fluent in **French** and **English**. Open to international opportunities across **Europe**.
 
 ---
 
