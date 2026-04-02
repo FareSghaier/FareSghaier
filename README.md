@@ -42,6 +42,7 @@ Full collaborative workflow with structured GitHub commits and technical documen
 ## 🎓 Education
 
 **Applied Data Science** — Diploma · La Cité College, Ottawa · Jan 2025 – Apr 2026
+
 **IT Technical Support** — Certificate · La Cité College, Ottawa · May 2024 – Dec 2024
 
 ---
