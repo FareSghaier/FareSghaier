@@ -1,8 +1,12 @@
 # Hi, I'm Fares Sghaier 👋
 
-**Aspiring Data & Cloud Engineer** — Applied Data Science student at La Cité College, Ottawa, Canada.
-I build end-to-end data pipelines, automated ingestion systems, and machine learning workflows on real-world datasets.
-Fluent in **French** and **English**. Open to international opportunities across **Europe**.
+**IT Support & Data Professional** — IT Technical Support Certificate + Applied Data Science Diploma · La Cité College, Ottawa, Canada · Graduated 2026.
+
+I build end-to-end data pipelines, automated systems, and machine learning workflows on real-world datasets — and I bring hands-on IT infrastructure skills in Linux, VMware, Docker, and networking alongside my data engineering background.
+
+Currently working as a **Marketing Science Intern at MASS Analytics** (Tunis) — a data science company specializing in Marketing Mix Modeling for international clients across Europe and the Middle East.
+
+Fluent in **French**, **English**, and **Arabic**. Open to opportunities in **Canada** and **Europe**.
 
 ---
 
@@ -10,12 +14,22 @@ Fluent in **French** and **English**. Open to international opportunities across
 
 | | |
 |---|---|
-| **Languages** | Python · SQL · Java |
-| **Data Engineering** | Apache Spark (PySpark) · Hadoop · SQL Server · ETL/ELT Pipelines · BULK INSERT · Stored Procedures · Triggers |
-| **ML & NLP** | scikit-learn · TensorFlow / Keras · NLTK · TF-IDF · Logistic Regression · Deep Autoencoders |
-| **Analytics** | Pandas · NumPy · Matplotlib · Seaborn · Tableau · Power BI |
-| **Tools** | Git / GitHub · Docker · Jupyter Notebook · VS Code |
-| **Currently Learning** | dbt · Cloud Data Platforms (Azure / AWS) · CI/CD |
+| **IT Infrastructure** | Linux (Ubuntu / Red Hat CLI) · VMware · Windows Server · Active Directory (notions) · TCP/IP · DNS · DHCP · Wi-Fi · VPN · Remote Access |
+| **Containers & Cloud** | Docker · Apache Spark · Hadoop · Cloud environment basics · ETL/ELT Pipelines |
+| **Languages** | Python · SQL · Java · Bash |
+| **Data Engineering** | SQL Server · Stored Procedures · Triggers · BULK INSERT · REST API · SQL Server Agent |
+| **ML & NLP** | scikit-learn · TensorFlow / Keras · PyTorch · HuggingFace / BERT · NLTK · TF-IDF · Deep Autoencoders |
+| **Analytics & BI** | Pandas · NumPy · Matplotlib · Seaborn · Tableau · Power BI · Excel |
+| **Support & Tools** | ITSM / Ticketing Systems · JIRA · Git / GitHub · Jupyter Notebook · VS Code |
+| **Currently Learning** | Kubernetes · dbt · Azure / AWS · CI/CD |
+
+---
+
+## 💼 Experience
+
+**Marketing Science Intern** · MASS Analytics · Tunis, Tunisia · July 2026 – Present
+
+Working on Marketing Mix Modeling (MMM) using the MassTer platform — helping international brands measure marketing ROI and optimize budget allocation across channels for clients across Europe and the Middle East.
 
 ---
 
@@ -27,7 +41,7 @@ Two-stage cleaning pipeline (Pandas + PySpark), 7 Spark transformations, DataFra
 
 ### [Automated Road Data Pipeline — Ontario 511](https://github.com/FareSghaier/UA3-BaseDeDonneeAvancee)
 End-to-end automated ingestion pipeline consuming live road event data from the Ontario 511 public API.
-**SQL Server** · scheduled Agent jobs · BULK INSERT · 7-table relational schema · 8 stored procedures · 3 audit triggers.
+**SQL Server** · scheduled Agent jobs · BULK INSERT · 7-table relational schema · 8 stored procedures · 3 audit triggers · full execution logging and audit trails.
 
 ### [SMS Spam Detection — NLP & Deep Learning](https://github.com/FareSghaier/SMS-Spam-Detection-NLP-DeepLearning)
 Complete NLP classification pipeline on the UCI SMS Spam Collection (5,572 messages).
@@ -44,6 +58,14 @@ Full collaborative workflow with structured GitHub commits and technical documen
 **Applied Data Science** — Diploma · La Cité College, Ottawa · Jan 2025 – Apr 2026
 
 **IT Technical Support** — Certificate · La Cité College, Ottawa · May 2024 – Dec 2024
+
+---
+
+## 📜 Certifications
+
+**Fundamentals of Marketing Mix Modeling: Learn by Doing** — Udemy · July 2026
+
+Course covering core MMM concepts: model building, adstock and saturation transformations, model calibration, and marketing ROI measurement — directly applied in current internship at MASS Analytics.
 
 ---
 
