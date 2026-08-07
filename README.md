@@ -1,6 +1,6 @@
 # Hi, I'm Fares Sghaier 👋
 
-**IT Support & Data Professional** — IT Technical Support Certificate + Applied Data Science Diploma · La Cité College, Ottawa, Canada · Graduated 2026.
+**Data Science & IT Professional** — Applied Data Science Diploma + IT Technical Support Certificate · La Cité College, Ottawa, Canada · Graduated 2026.
 
 I build end-to-end data pipelines, automated systems, and machine learning workflows on real-world datasets — and I bring hands-on IT infrastructure skills in Linux, VMware, Docker, and networking alongside my data engineering background.
 
@@ -14,14 +14,13 @@ Fluent in **French**, **English**, and **Arabic**. Open to opportunities in **Ca
 
 | | |
 |---|---|
-| **IT Infrastructure** | Linux (Ubuntu / Red Hat CLI) · VMware · Windows Server · Active Directory (notions) · TCP/IP · DNS · DHCP · Wi-Fi · VPN · Remote Access |
+| **IT Infrastructure** | Linux (Ubuntu / Red Hat CLI) · VMware · Windows Server · Active Directory · TCP/IP · DNS · DHCP · Wi-Fi · VPN · Remote Access |
 | **Containers & Cloud** | Docker · Apache Spark · Hadoop · Cloud environment basics · ETL/ELT Pipelines |
 | **Languages** | Python · SQL · Java · Bash |
 | **Data Engineering** | SQL Server · Stored Procedures · Triggers · BULK INSERT · REST API · SQL Server Agent |
 | **ML & NLP** | scikit-learn · TensorFlow / Keras · PyTorch · HuggingFace / BERT · NLTK · TF-IDF · Deep Autoencoders |
 | **Analytics & BI** | Pandas · NumPy · Matplotlib · Seaborn · Tableau · Power BI · Excel |
-| **Support & Tools** | ITSM / Ticketing Systems · JIRA · Git / GitHub · Jupyter Notebook · VS Code |
-| **Currently Learning** | Kubernetes · dbt · Azure / AWS · CI/CD |
+| **Support & Tools** | ITSM / Ticketing Systems · JIRA · Zendesk · Git / GitHub · Jupyter Notebook · VS Code |
 
 ---
 
@@ -30,6 +29,10 @@ Fluent in **French**, **English**, and **Arabic**. Open to opportunities in **Ca
 **Marketing Science Intern** · MASS Analytics · Tunis, Tunisia · July 2026 – Present
 
 Working on Marketing Mix Modeling (MMM) using the MassTer platform — helping international brands measure marketing ROI and optimize budget allocation across channels for clients across Europe and the Middle East.
+
+**Help Desk Support Agent (Academic Practicum)** · La Cité College · Ottawa, Canada · 2024 – 2025
+
+Provided Level 1 technical support to students, faculty, and administrative staff via ticketing system, phone, and in-person. Troubleshot Windows 10/11, Microsoft 365 (Outlook, Teams, OneDrive, SharePoint), Active Directory, network connectivity, and hardware issues. Documented every intervention according to established SOPs, escalated complex cases with full diagnostic notes, and delivered bilingual support in English and French.
 
 ---
 
@@ -63,13 +66,15 @@ Full collaborative workflow with structured GitHub commits and technical documen
 
 ## 📜 Certifications
 
-**Fundamentals of Marketing Mix Modeling: Learn by Doing** — Udemy · July 2026
+**Technical Support Fundamentals** — Google / Coursera · July 2026
+Part of the Google IT Support Professional Certificate (in progress) · Credential ID: 9EN7BTPDJIAU · [Verify](https://coursera.org/verify/9EN7BTPDJIAU)
 
-Course covering core MMM concepts: model building, adstock and saturation transformations, model calibration, and marketing ROI measurement — directly applied in current internship at MASS Analytics.
+**Fundamentals of Marketing Mix Modeling: Learn by Doing** — Udemy · July 2026
+Core MMM concepts: model building, adstock and saturation transformations, model calibration, and marketing ROI measurement — directly applied in current internship at MASS Analytics.
 
 ---
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fares%20Sghaier-0077B5?logo=linkedin)](https://www.linkedin.com/in/fares-sghaier-929474218/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fares%20Sghaier-0077B5?logo=linkedin)](https://www.linkedin.com/in/faresghaier/)
 [![Email](https://img.shields.io/badge/Email-sghaier0311%40gmail.com-D14836?logo=gmail)](mailto:sghaier0311@gmail.com)
